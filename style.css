@@ -11,7 +11,34 @@
     margin: 0 auto;
     height: 100%;
 }
+.adik{
+    width: 95%;
+    margin: 0 auto;
+}
 .ImgSiseCaru{
-    max-width: 60%;
+    max-width: 90%;
+    min-height: 1000px;
     max-height: 1000px;
+}
+.header{    
+    text-align: center;
+    color: rgb(233, 65, 93);
+    font-size: 115px;
+}
+.textSi{
+    font-size: 55px;
+    text-align: center;
+}
+.headerCarou{
+    font-size: 35px;
+    text-align: center;
+    color: gray;
+    text-transform: unset;
+}
+.Regresar{
+    margin-top: 2%;
+    font-size: 25px;
+    text-decoration: none;
+    color: gray;
+    margin: 0 auto;
 }
